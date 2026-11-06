@@ -10,7 +10,7 @@
 
 ### Integrantes
 
-| Nome completo | Usuário GitHub | Responsabilidade na atividade |
+| Nome | Usuário GitHub | Responsabilidade na atividade |
 |---|---|---|
 | [Jonathan Estevão] | [@jonathanestevao] | [PREENCHER] |
 | [NOME] | [@USUARIO] | [PREENCHER] |
