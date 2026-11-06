@@ -3,8 +3,8 @@
 > **Material didático — Desenvolvimento Front-End Para Web**  
 > Universidade Cruzeiro do Sul  
 > **Grupo:** 03  
-> **Integrantes:** [NOME COMPLETO — USUÁRIO GITHUB], [NOME COMPLETO — USUÁRIO GITHUB]  
-> **Repositório:** [INSERIR URL DO REPOSITÓRIO]
+> **Integrantes:** [Jonathan Estevão Lopes da Silva — jonathanestevao], [Guilherme De Carvalho — USUÁRIO GITHUB], [Paulo Henrique Silva de Souza — USUÁRIO GITHUB]
+> **Repositório:** [https://github.com/The-3-Students/github-basico-grupo-03]
 
 ---
 
