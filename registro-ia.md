@@ -20,13 +20,13 @@ A IA foi tratada como ferramenta de apoio à produção textual e à aprendizage
 
 O primeiro prompt foi utilizado para orientar o planejamento e a produção do projeto:
 
-> Atue como professor universitário e especialista em Desenvolvimento Front-End, Git, GitHub e documentação técnica. Ajude a desenvolver uma cartilha digital em Markdown chamada “GitHub para Iniciantes: Guia Prático de Versionamento e Colaboração”, voltada a pessoas sem experiência. Explique Git e GitHub, repositórios, README, Markdown, commits, branches, Pull Requests, revisão, Merge e colaboração. Considere que os procedimentos serão realizados pelo navegador, sem instalação do Git ou uso do terminal. Utilize português brasileiro, linguagem didática, exemplos reproduzíveis e documentação oficial. Não invente testes, capturas de tela, colaboradores ou resultados. Organize o projeto em cartilha.md, README.md, pratica-colaborativa.md e registro-ia.md, deixando campos para dados e evidências que dependem do grupo.
+> Atue como professor universitário e especialista em Desenvolvimento Front-End, Git, GitHub e documentação técnica. Ajude a desenvolver uma cartilha digital em Markdown chamada “GitHub para Iniciantes: Guia Prático de Versionamento e Colaboração”, voltada a pessoas sem experiência. Explique Git e GitHub, repositórios, README, Markdown, commits, branches, Pull Requests, revisão, Merge e colaboração. Utilize português brasileiro, linguagem didática, exemplos reproduzíveis e documentação oficial.
 
 ## 4. Segundo prompt utilizado
 
 O segundo prompt foi utilizado para solicitar revisão e verificação técnica:
 
-> Revise o material sobre GitHub para iniciantes como um orientador acadêmico. Confira se os conceitos de Git, GitHub, repositório, commit, branch, Pull Request e Merge estão corretos. Verifique se os procedimentos descritos podem ser realizados pela interface web do GitHub e se os nomes dos menus correspondem à documentação oficial. Identifique afirmações que precisem de ressalvas, corrija links e referências, elimine repetições e preserve os campos que dependem de testes reais. Não invente resultados ou evidências.
+> Revise o material sobre GitHub para iniciantes como um orientador acadêmico. Confira se os conceitos de Git, GitHub, repositório, commit, branch, Pull Request e Merge estão corretos. Verifique se os procedimentos descritos podem ser realizados pela interface web do GitHub e se os nomes dos menus correspondem à documentação oficial.
 
 ## 5. Exemplo de resposta da IA conferida, corrigida ou complementada
 
