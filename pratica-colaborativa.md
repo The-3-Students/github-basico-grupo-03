@@ -27,23 +27,23 @@ O registro deve ser preenchido depois da execução. Este documento é um modelo
 
 Cada participante deve registrar uma dica que considera útil para quem está começando a utilizar o GitHub.
 
-### Integrante 1 — [NOME]
+### Integrante 1 — [Jonathan Estevão]
 
-**Dica:** [ESCREVER A DICA APÓS A PRÁTICA.]
+Dica: Escreva mensagens de commit curtas e objetivas no modo imperativo, como "Adiciona imagem do fluxo" em vez de "Subi a foto aqui".
 
-**Por que essa dica é importante?** [EXPLICAR.]
+Por que essa dica é importante? Facilita a identificação rápida do que foi alterado na linha do tempo do projeto por qualquer pessoa da equipe, sem precisar abrir o arquivo para checar.
 
-### Integrante 2 — [NOME]
+### Integrante 2 — [Guilherme De Carvalho Sousa]
 
-**Dica:** [ESCREVER A DICA APÓS A PRÁTICA.]
+Dica: Utilize a aba Preview do editor web do GitHub antes de confirmar qualquer alteração em arquivos Markdown (.md).
 
-**Por que essa dica é importante?** [EXPLICAR.]
+Por que essa dica é importante? Permite visualizar se a formatação (links, tabelas e imagens) está correta antes de salvar, evitando múltiplos commits desnecessários para corrigir pequenos erros visuais.
 
-### Integrante 3 — [NOME]
+### Integrante 3 — [Paulo henrique]
 
-**Dica:** [ESCREVER A DICA APÓS A PRÁTICA.]
+Dica: Crie branches paralelas (como melhoria-texto) para testar edições em vez de alterar diretamente a branch principal (main).
 
-**Por que essa dica é importante?** [EXPLICAR.]
+Por que essa dica é importante? Protege a versão estável e funcional do trabalho contra erros acidentais durante a fase de escrita e possibilita a revisão do conteúdo por outro colega via Pull Request.
 
 [ADICIONE OU REMOVA SEÇÕES CONFORME A QUANTIDADE DE INTEGRANTES.]
 
