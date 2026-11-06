@@ -13,7 +13,8 @@
 | Nome | Usuário GitHub | Responsabilidade na atividade |
 |---|---|---|
 | [Jonathan Estevão] | [@jonathanestevao] | [PREENCHER] |
-| [Guilherme De Carvalho Souza] | [@guilhermedecarvalho353-png] | [PREENCHER] |
+| [Guilherme De Carvalho Souza] | [@guilhermedecarvalho353-png] | Ajudei  a separar o que tinha que ser feito, e criei o grupo de repositório.
+|
 | [NOME] | [@henriquesouza00] | [PREENCHER] |
 
 
