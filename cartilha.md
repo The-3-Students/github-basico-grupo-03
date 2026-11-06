@@ -347,19 +347,11 @@ Prefira mensagens curtas, específicas e coerentes com o conteúdo do commit. N�
 
 O histórico permite acompanhar a evolução do projeto. A autoria exibida depende dos dados associados ao commit e da configuração da conta. Não confunda o autor do commit com a pessoa que apenas revisou um Pull Request.
 
-> **ESPAÇO RESERVADO PARA A CAPTURA 03 — HISTÓRICO DE COMMITS**
+> ** 03 — HISTÓRICO DE COMMITS**
 >
-> **[INSERIR A PRINT REAL AQUI]**
+> ![Figura 1 — Criação do repositório do grupo no GitHub](imagens/01-criacao-repositorio.png)
 >
-> Arquivo: `imagens/03-historico-commits.png`
->
-> O que mostrar: a lista de commits com mensagens, datas e autores das contribuições dos integrantes.
->
-> Legenda sugerida: *Figura 3 — Histórico de commits e identificação das contribuições.*
->
-> Depois de enviar a imagem para a pasta `imagens/`, substitua este bloco pelo recurso:
->
-> `![Figura 3 — Histórico de commits e identificação das contribuições.](imagens/03-historico-commits.png)`
+> *Figura 3 — Histórico de commits e identificação das contribuições.*
 
 ## 6. Colaboração entre integrantes
 
