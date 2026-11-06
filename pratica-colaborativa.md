@@ -47,17 +47,8 @@ Por que essa dica é importante? Protege a versão estável e funcional do traba
 
 [ADICIONE OU REMOVA SEÇÕES CONFORME A QUANTIDADE DE INTEGRANTES.]
 
-## 4. Registro das contribuições
 
-Preencher com base no histórico do repositório, nos arquivos alterados e nas atividades observadas.
-
-| Integrante | Arquivo ou atividade | Contribuição realizada | Commit ou Pull Request relacionado |
-|---|---|---|---|
-| [NOME] | [ARQUIVO/ATIVIDADE] | [DESCREVER] | [LINK OU IDENTIFICADOR] |
-| [NOME] | [ARQUIVO/ATIVIDADE] | [DESCREVER] | [LINK OU IDENTIFICADOR] |
-| [NOME] | [ARQUIVO/ATIVIDADE] | [DESCREVER] | [LINK OU IDENTIFICADOR] |
-
-## 5. Etapas executadas
+## 4. Etapas executadas
 
 Marque somente as atividades efetivamente concluídas.
 
@@ -72,7 +63,7 @@ Marque somente as atividades efetivamente concluídas.
 - [ ] O Merge foi realizado.
 - [ ] O conteúdo foi conferido na branch principal.
 
-## 6. Dificuldades encontradas
+## 5. Dificuldades encontradas
 
 Registrar somente situações que realmente ocorreram. Se não houver dificuldades, informar isso.
 
@@ -81,7 +72,7 @@ Registrar somente situações que realmente ocorreram. Se não houver dificuldad
 | [PREENCHER] | [NOME] | [PREENCHER] | [PREENCHER] |
 | [PREENCHER] | [NOME] | [PREENCHER] | [PREENCHER] |
 
-## 7. Perguntas de reflexão
+## 6. Perguntas de reflexão
 
 As perguntas abaixo devem ser respondidas pelo grupo após a prática. Os campos foram deixados em aberto para evitar respostas inventadas.
 
@@ -105,7 +96,7 @@ As perguntas abaixo devem ser respondidas pelo grupo após a prática. Os campos
 
 **Resposta do grupo:** [RELATAR O PROBLEMA REALMENTE ENFRENTADO E A SOLUÇÃO. SE NÃO HOUVE PROBLEMA, REGISTRAR ISSO.]
 
-## 8. Evidências e espaços para as capturas de tela
+## 7. Evidências e espaços para as capturas de tela
 
 A atividade solicita pelo menos cinco capturas próprias, obtidas durante a execução das práticas. **As imagens ainda não foram inseridas neste modelo.** Coloque os arquivos PNG na pasta `imagens/`, usando exatamente os nomes indicados. Depois, substitua cada área reservada pelo respectivo recurso Markdown.
 
@@ -202,6 +193,6 @@ Código para inserir a imagem depois do envio:
 **Cuidados ao capturar:** oculte e-mails, notificações particulares, dados de conta e qualquer informação sensível que não seja necessária para comprovar a atividade. Não altere a imagem de modo a modificar o sentido da evidência. Não use imagens fictícias ou capturas de terceiros como comprovação do grupo.
 
 
-## 9. Conclusão da prática
+## 8. Conclusão da prática
 
 [ELABORAR UM PARÁGRAFO COM O QUE O GRUPO APRENDEU, COMO FOI A DIVISÃO DAS TAREFAS E QUAL A IMPORTÂNCIA DO VERSIONAMENTO E DA REVISÃO COLABORATIVA.]
