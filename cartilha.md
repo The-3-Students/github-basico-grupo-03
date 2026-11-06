@@ -124,7 +124,7 @@ Se o repositório do grupo já existe, esta seção serve como referência para 
 
 **Resultado esperado:** a página do novo repositório será aberta e exibirá o README inicial, caso essa opção tenha sido selecionada.
 
-> **01 — CRIAÇÃO DO REPOSITÓRIO**
+> **— CRIAÇÃO DO REPOSITÓRIO**
 >
 > ![Figura 1 — Criação do repositório do grupo no GitHub](imagens/01-criacao-repositorio.png)
 >
@@ -347,7 +347,7 @@ Prefira mensagens curtas, específicas e coerentes com o conteúdo do commit. N�
 
 O histórico permite acompanhar a evolução do projeto. A autoria exibida depende dos dados associados ao commit e da configuração da conta. Não confunda o autor do commit com a pessoa que apenas revisou um Pull Request.
 
-> ** 03 — HISTÓRICO DE COMMITS**
+> **— HISTÓRICO DE COMMITS**
 >
 > ![Figura 1 — Criação do repositório do grupo no GitHub](imagens/01-criacao-repositorio.png)
 >
@@ -440,19 +440,11 @@ Um Pull Request não realiza automaticamente o Merge. Primeiro, a equipe pode ex
 
 Se o GitHub exibir um aviso para comparar e abrir um Pull Request após o commit, essa opção também pode ser utilizada.
 
-> **ESPAÇO RESERVADO PARA A CAPTURA 04 — PULL REQUEST ABERTO**
+> **— PULL REQUEST ABERTO**
 >
-> **[INSERIR A PRINT REAL AQUI]**
+> ![Figura 1 — Criação do repositório do grupo no GitHub](imagens/01-criacao-repositorio.png)
 >
-> Arquivo: `imagens/04-pull-request.png`
->
-> O que mostrar: a página do Pull Request aberto, com título, branches base e de comparação e estado da solicitação.
->
-> Legenda sugerida: *Figura 4 — Pull Request aberto para revisão das alterações.*
->
-> Depois de enviar a imagem para a pasta `imagens/`, substitua este bloco pelo recurso:
->
-> `![Figura 4 — Pull Request aberto para revisão das alterações.](imagens/04-pull-request.png)`
+> *Figura 4 — Pull Request aberto para revisão das alterações.*
 
 ### 6.9 Revisar alterações e solicitar correções
 
