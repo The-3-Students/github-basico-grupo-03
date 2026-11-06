@@ -105,51 +105,102 @@ As perguntas abaixo devem ser respondidas pelo grupo após a prática. Os campos
 
 **Resposta do grupo:** [RELATAR O PROBLEMA REALMENTE ENFRENTADO E A SOLUÇÃO. SE NÃO HOUVE PROBLEMA, REGISTRAR ISSO.]
 
-## 8. Evidências
+## 8. Evidências e espaços para as capturas de tela
 
-Inserir as capturas reais na pasta `imagens/` e referenciá-las abaixo.
+A atividade solicita pelo menos cinco capturas próprias, obtidas durante a execução das práticas. **As imagens ainda não foram inseridas neste modelo.** Coloque os arquivos PNG na pasta `imagens/`, usando exatamente os nomes indicados. Depois, substitua cada área reservada pelo respectivo recurso Markdown.
 
 ### Evidência 1 — Criação do repositório
 
-![Criação do repositório](imagens/01-criacao-repositorio.png)
+> **ESPAÇO RESERVADO PARA A PRINT 01**
+>
+> **[INSERIR A CAPTURA REAL AQUI]**
+>
+> Arquivo: `imagens/01-criacao-repositorio.png`
+>
+> Mostrar: página do repositório do grupo, nome e estrutura inicial.
+>
+> Legenda sugerida: *Figura 1 — Criação e identificação do repositório do grupo.*
 
-**Legenda:** Figura 1 — Criação e identificação do repositório do grupo.
+Código para inserir a imagem depois do envio:
 
-**Observação:** [PREENCHER APÓS INSERIR A CAPTURA.]
+```markdown
+![Figura 1 — Criação e identificação do repositório do grupo](imagens/01-criacao-repositorio.png)
+```
 
 ### Evidência 2 — Arquivo compartilhado e edição
 
-![Arquivo compartilhado e edição](imagens/02-arquivo-compartilhado.png)
+> **ESPAÇO RESERVADO PARA A PRINT 02**
+>
+> **[INSERIR A CAPTURA REAL AQUI]**
+>
+> Arquivo: `imagens/02-arquivo-compartilhado.png`
+>
+> Mostrar: o arquivo coletivo aberto no GitHub e a dica ou contribuição adicionada por um integrante.
+>
+> Legenda sugerida: *Figura 2 — Edição do arquivo compartilhado pela interface web.*
 
-**Legenda:** Figura 2 — Arquivo compartilhado e editado pela interface web.
+Código para inserir a imagem depois do envio:
 
-**Observação:** [PREENCHER APÓS INSERIR A CAPTURA.]
+```markdown
+![Figura 2 — Edição do arquivo compartilhado pela interface web](imagens/02-arquivo-compartilhado.png)
+```
 
 ### Evidência 3 — Histórico de commits
 
-![Histórico de commits](imagens/03-historico-commits.png)
+> **ESPAÇO RESERVADO PARA A PRINT 03**
+>
+> **[INSERIR A CAPTURA REAL AQUI]**
+>
+> Arquivo: `imagens/03-historico-commits.png`
+>
+> Mostrar: histórico com mensagens de commit e autores das contribuições.
+>
+> Legenda sugerida: *Figura 3 — Histórico de commits e identificação das contribuições.*
 
-**Legenda:** Figura 3 — Histórico de commits e identificação das contribuições.
+Código para inserir a imagem depois do envio:
 
-**Observação:** [PREENCHER APÓS INSERIR A CAPTURA.]
+```markdown
+![Figura 3 — Histórico de commits e identificação das contribuições](imagens/03-historico-commits.png)
+```
 
 ### Evidência 4 — Pull Request aberto
 
-![Pull Request aberto](imagens/04-pull-request.png)
+> **ESPAÇO RESERVADO PARA A PRINT 04**
+>
+> **[INSERIR A CAPTURA REAL AQUI]**
+>
+> Arquivo: `imagens/04-pull-request.png`
+>
+> Mostrar: Pull Request aberto, título, branches envolvidas e estado da revisão.
+>
+> Legenda sugerida: *Figura 4 — Pull Request submetido para revisão.*
 
-**Legenda:** Figura 4 — Pull Request criado para revisão das alterações.
+Código para inserir a imagem depois do envio:
 
-**Observação:** [PREENCHER APÓS INSERIR A CAPTURA.]
+```markdown
+![Figura 4 — Pull Request submetido para revisão](imagens/04-pull-request.png)
+```
 
 ### Evidência 5 — Resultado do Merge
 
-![Resultado do Merge](imagens/05-resultado-merge.png)
+> **ESPAÇO RESERVADO PARA A PRINT 05**
+>
+> **[INSERIR A CAPTURA REAL AQUI]**
+>
+> Arquivo: `imagens/05-resultado-merge.png`
+>
+> Mostrar: Pull Request marcado como mesclado e, se possível, a alteração visível na branch principal.
+>
+> Legenda sugerida: *Figura 5 — Alterações incorporadas à branch principal.*
 
-**Legenda:** Figura 5 — Resultado da integração das alterações na branch principal.
+Código para inserir a imagem depois do envio:
 
-**Observação:** [PREENCHER APÓS INSERIR A CAPTURA.]
+```markdown
+![Figura 5 — Alterações incorporadas à branch principal](imagens/05-resultado-merge.png)
+```
 
-> Se uma imagem ainda não existir, o GitHub exibirá uma imagem quebrada. Adicione o arquivo real com o nome exato antes da entrega. Não mantenha capturas fictícias ou de demonstração como se fossem evidências do grupo.
+**Cuidados ao capturar:** oculte e-mails, notificações particulares, dados de conta e qualquer informação sensível que não seja necessária para comprovar a atividade. Não altere a imagem de modo a modificar o sentido da evidência. Não use imagens fictícias ou capturas de terceiros como comprovação do grupo.
+
 
 ## 9. Conclusão da prática
 
