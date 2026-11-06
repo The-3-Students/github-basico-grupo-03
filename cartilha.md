@@ -47,9 +47,7 @@ Apresentar os conceitos fundamentais de versionamento e ensinar, por meio de ins
 
 ### Conhecimentos necessários
 
-Não é necessário saber programar nem conhecer comandos de terminal. É suficiente ter acesso à internet, um navegador atualizado e uma conta no GitHub. Os procedimentos deste material foram planejados para serem realizados pelo navegador.
-
-> **Nota sobre as evidências:** este guia apresenta procedimentos para reprodução. As capturas de tela e os resultados da atividade do grupo devem ser inseridos somente depois que os integrantes executarem os passos. Nenhum exemplo deste documento deve ser interpretado como comprovação de que um teste foi realizado.
+Não é necessário saber programar nem conhecer comandos de terminal, é suficiente ter acesso à internet, um navegador atualizado e uma conta no GitHub
 
 ## 2. Introdução ao Git e GitHub
 
