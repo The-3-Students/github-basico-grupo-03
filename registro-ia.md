@@ -6,7 +6,7 @@
 - **Instituição:** Universidade Cruzeiro do Sul
 - **Disciplina:** Desenvolvimento Front-End Para Web
 - **Grupo:** [03]
-- **Integrantes:** [Jonathan Estevão Lopes da Silva — jonathanestevao], [Guilherme De Carvalho — USUÁRIO GITHUB], [Paulo Henrique Silva de Souza — USUÁRIO GITHUB]
+- **Integrantes:** [Jonathan Estevão Lopes da Silva — jonathanestevao], [Guilherme De Carvalho — guilhermedecarvalho353-png], [Paulo Henrique Silva de Souza — henriquesouza00]
 - **Ferramenta utilizada:** ChatGPT, da OpenAI
 - **Data(s) de utilização:** [06/11/2026]
 
