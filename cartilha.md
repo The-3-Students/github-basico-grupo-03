@@ -3,7 +3,7 @@
 > **Material didático — Desenvolvimento Front-End Para Web**  
 > Universidade Cruzeiro do Sul  
 > **Grupo:** 03  
-> **Integrantes:** [Jonathan Estevão Lopes da Silva — jonathanestevao], [Guilherme De Carvalho — guilhermedecarvalho353-png], [Paulo Henrique Silva de Souza — USUÁRIO GITHUB]
+> **Integrantes:** [Jonathan Estevão Lopes da Silva — jonathanestevao], [Guilherme De Carvalho — guilhermedecarvalho353-png], [Paulo Henrique Silva de Souza — henriquesouza00]
 > **Repositório:** [https://github.com/The-3-Students/github-basico-grupo-03]
 
 ---
@@ -35,7 +35,7 @@
 **Integrantes:**
   - [Jonathan Estevão Lopes da Silva — jonathanestevao]
   - [Guilherme De Carvalho Sousa — guilhermedecarvalho353-png]
-  - [Paulo Henrique Silva de Souza — USUÁRIO GITHUB]
+  - [Paulo Henrique Silva de Souza — henriquesouza00]
 
 ### Público-alvo
 
