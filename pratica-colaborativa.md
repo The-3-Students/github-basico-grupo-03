@@ -5,17 +5,18 @@
 - **Instituição: Universidade Cruzeiro do Sul
 - **Curso:** Análise e Desenvolvimento de Sistemas
 - **Disciplina: Desenvolvimento Front-End Para Web
-- **Grupo: 3
-- **Repositório: https://github.com/The-3-Students/github-basico-grupo-03
-- **Data da prática:** 06/11/2026
+- **Grupo: 03
+- **Repositório: [https://github.com/The-3-Students/github-basico-grupo-03]
+- **Data da prática:** [06/11/2026]
 
 ### Integrantes
 
 | Nome completo | Usuário GitHub | Responsabilidade na atividade |
 |---|---|---|
+| [Jonathan Estevão] | [@jonathanestevao] | [PREENCHER] |
 | [NOME] | [@USUARIO] | [PREENCHER] |
 | [NOME] | [@USUARIO] | [PREENCHER] |
-| [ADICIONE LINHAS] | | |
+
 
 ## 2. Descrição da atividade
 
