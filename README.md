@@ -19,7 +19,7 @@ Explicar conceitos de controle de versão, organização de repositórios, Markd
 - **Integrantes:**
   - [Jonathan Estevão Lopes da Silva — jonathanestevao]
   - [Guilherme De Carvalho — guilhermedecarvalho353-png]
-  - [Paulo Henrique Silva de Souza — USUÁRIO GITHUB]
+  - [Paulo Henrique Silva de Souza — henriquesouza00]
 - **Docente:** [Eliane]
 
 ## Documentação
