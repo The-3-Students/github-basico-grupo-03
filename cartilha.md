@@ -126,7 +126,7 @@ Se o repositório do grupo já existe, esta seção serve como referência para 
 
 > **ESPAÇO RESERVADO PARA A CAPTURA 01 — CRIAÇÃO DO REPOSITÓRIO**
 >
-> **[INSERIR A PRINT REAL AQUI]**
+> **[https://github.com/The-3-Students/github-basico-grupo-03/blob/main/imagens/01-criacao-repositorio.png]**
 >
 > Arquivo: `imagens/01-criacao-repositorio.png`
 >
