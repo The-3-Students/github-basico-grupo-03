@@ -13,8 +13,8 @@
 | Nome | Usuário GitHub | Responsabilidade na atividade |
 |---|---|---|
 | [Jonathan Estevão] | [@jonathanestevao] | [PREENCHER] |
-| [NOME] | [@USUARIO] | [PREENCHER] |
-| [NOME] | [@USUARIO] | [PREENCHER] |
+| [Guilherme De Carvalho Souza] | [@guilhermedecarvalho353-png] | [PREENCHER] |
+| [NOME] | [@henriquesouza00] | [PREENCHER] |
 
 
 ## 2. Descrição da atividade
