@@ -31,11 +31,11 @@
 **Instituição:** Universidade Cruzeiro do Sul  
 **Curso:** Análise e Desenvolvimento de Sistemas  
 **Disciplina:** Desenvolvimento Front-End Para Web  
-**Grupo:** [NÚMERO DO GRUPO]  
+**Grupo:** [03]  
 **Integrantes:**
-- [NOME COMPLETO — USUÁRIO GITHUB]
-- [NOME COMPLETO — USUÁRIO GITHUB]
-- [ADICIONE OU REMOVA LINHAS CONFORME A COMPOSIÇÃO DO GRUPO]
+  - [Jonathan Estevão Lopes da Silva — jonathanestevao]
+  - [Guilherme De Carvalho — USUÁRIO GITHUB]
+  - [Paulo Henrique Silva de Souza — USUÁRIO GITHUB]
 
 ### Público-alvo
 
