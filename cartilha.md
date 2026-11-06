@@ -474,19 +474,11 @@ Uma revisão deve ser respeitosa, específica e relacionada ao trabalho. Exemplo
 
 O GitHub pode oferecer diferentes métodos de mesclagem, como merge commit, squash e rebase. Para um exercício introdutório, utilize a opção padrão disponível no repositório e registre qual foi utilizada.
 
-> **ESPAÇO RESERVADO PARA A CAPTURA 05 — RESULTADO DO MERGE**
+> **— RESULTADO DO MERGE**
 >
-> **[INSERIR A PRINT REAL AQUI]**
+> ![Figura 1 — Criação do repositório do grupo no GitHub](imagens/01-criacao-repositorio.png)
 >
-> Arquivo: `imagens/05-resultado-merge.png`
->
-> O que mostrar: o Pull Request marcado como merged e, se possível, o arquivo atualizado na branch principal.
->
-> Legenda sugerida: *Figura 5 — Alterações incorporadas à branch principal após o Merge.*
->
-> Depois de enviar a imagem para a pasta `imagens/`, substitua este bloco pelo recurso:
->
-> `![Figura 5 — Alterações incorporadas à branch principal após o Merge.](imagens/05-resultado-merge.png)`
+> *Figura 5 — Alterações incorporadas à branch principal após o Merge.*
 
 ### 6.12 Como evitar conflitos e perda de alterações
 
@@ -542,19 +534,12 @@ Os exercícios a seguir foram elaborados para serem executados pelo navegador. O
 
 **Registro do grupo:** [PREENCHER APÓS A EXECUÇÃO.]
 
-> **ESPAÇO RESERVADO PARA A CAPTURA 02 — ARQUIVO COMPARTILHADO E EDITADO**
+> **— ARQUIVO COMPARTILHADO E EDITADO**
 >
-> **[INSERIR A PRINT REAL AQUI]**
+> ![Figura 1 — Criação do repositório do grupo no GitHub](imagens/01-criacao-repositorio.png)
 >
-> Arquivo: `imagens/02-arquivo-compartilhado.png`
->
-> O que mostrar: o arquivo coletivo aberto no GitHub, mostrando a dica acrescentada por um integrante e, quando possível, o nome da conta usada na contribuição.
->
-> Legenda sugerida: *Figura 2 — Edição do arquivo compartilhado por um integrante.*
->
-> Depois de enviar a imagem para a pasta `imagens/`, substitua este bloco pelo recurso:
->
-> `![Figura 2 — Edição do arquivo compartilhado por um integrante.](imagens/02-arquivo-compartilhado.png)`
+> *Figura 2 — Edição do arquivo compartilhado por um integrante.*
+
 
 ### Exercício 3 — Criar uma branch e registrar um commit
 
@@ -680,7 +665,7 @@ Este repositório será utilizado para praticar colaboração e controle de vers
 
 A tabela apresenta situações comuns que podem ocorrer com iniciantes. São possibilidades gerais, não dificuldades que o grupo necessariamente vivenciou.
 
-| Dificuldade | Possível causa | Solução recomendada |
+| Dificuldade | Causa | Solução |
 |---|---|---|
 | Não consigo acessar um repositório privado. | O convite não foi aceito ou a conta não recebeu permissão. | Conferir a conta utilizada, localizar o convite e solicitar ao proprietário que verifique o acesso. |
 | Não encontro o botão de edição. | Permissão insuficiente, arquivo não editável naquela tela ou interface diferente. | Conferir o acesso e abrir o arquivo diretamente na página do repositório. |
@@ -690,18 +675,6 @@ A tabela apresenta situações comuns que podem ocorrer com iniciantes. São pos
 | O Markdown aparece como texto sem formatação. | Sintaxe incorreta ou arquivo com extensão inadequada. | Conferir a extensão `.md`, os caracteres de formatação e a pré-visualização. |
 | Dois integrantes alteraram a mesma parte do arquivo. | Falta de divisão de tarefas ou trabalho simultâneo. | Conversar, comparar as versões e combinar a resolução antes de integrar as alterações. |
 | A imagem não aparece no README. | Caminho ou nome do arquivo incorreto, ou imagem não foi enviada. | Conferir letras maiúsculas/minúsculas, extensão e localização do arquivo. |
-
-### Registro das dificuldades efetivamente encontradas pelo grupo
-
-Preencher somente após a realização dos exercícios.
-
-| Integrante | Dificuldade encontrada | Como foi resolvida | Evidência ou observação |
-|---|---|---|---|
-| [NOME] | [PREENCHER] | [PREENCHER] | [PREENCHER] |
-| [NOME] | [PREENCHER] | [PREENCHER] | [PREENCHER] |
-| [ADICIONE LINHAS SE NECESSÁRIO] | | | |
-
-Se não houver dificuldade, registrar isso de forma verdadeira, por exemplo: “O integrante informou que concluiu a atividade sem encontrar dificuldades relevantes”.
 
 ## 10. Considerações finais
 
@@ -733,4 +706,3 @@ As referências abaixo são páginas da documentação oficial do GitHub. Os pro
 ---
 
 **Última revisão editorial:** 6 de novembro de 2026.  
-**Status das atividades práticas:** dependem da execução e confirmação pelos integrantes do grupo.
