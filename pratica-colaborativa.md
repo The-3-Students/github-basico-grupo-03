@@ -2,11 +2,11 @@
 
 ## 1. Identificação
 
-- **Instituição: Universidade Cruzeiro do Sul
+- **Instituição:** Universidade Cruzeiro do Sul
 - **Curso:** Análise e Desenvolvimento de Sistemas
-- **Disciplina: Desenvolvimento Front-End Para Web
-- **Grupo: 03
-- **Repositório: [https://github.com/The-3-Students/github-basico-grupo-03]
+- **Disciplina:** Desenvolvimento Front-End Para Web
+- **Grupo:** 03
+- **Repositório:** [https://github.com/The-3-Students/github-basico-grupo-03]
 - **Data da prática:** [06/11/2026]
 
 ### Integrantes
