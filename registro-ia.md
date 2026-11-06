@@ -51,10 +51,10 @@ Registrar as páginas realmente consultadas e os testes efetivamente realizados.
 
 | Informação verificada | Fonte oficial ou teste | Resultado da conferência |
 |---|---|---|
-| Diferença entre Git e GitHub | [INSERIR LINK E DESCREVER A CONFERÊNCIA] | [PREENCHER] |
-| Criação e edição de arquivos | [INSERIR LINK OU REGISTRO DO TESTE] | [PREENCHER] |
-| Commits e histórico | [INSERIR LINK OU REGISTRO DO TESTE] | [PREENCHER] |
-| Branches e Pull Requests | [INSERIR LINK OU REGISTRO DO TESTE] | [PREENCHER] |
+| Diferença entre Git e GitHub	[https://github.com/The-3-Students/github-basico-grupo-03/blob/main/cartilha.md#2-introdu%C3%A7%C3%A3o-ao-git-e-github]	[FUNCIONANDO]
+Criação e edição de arquivos	[https://github.com/The-3-Students/github-basico-grupo-03/blob/main/cartilha.md#5-trabalhando-com-arquivos-e-vers%C3%B5es]	[FUNCIONANDO]
+Commits e histórico	[https://github.com/The-3-Students/github-basico-grupo-03/blob/main/cartilha.md#7-pr%C3%A1tica-orientada]	[FUNCIONANDO]
+Branches e Pull Requests	[https://github.com/The-3-Students/github-basico-grupo-03/blob/main/cartilha.md#7-pr%C3%A1tica-orientada]	[FUNCIONANDO]
 | Merge | [INSERIR LINK OU REGISTRO DO TESTE] | [PREENCHER] |
 
 ### Fontes oficiais recomendadas
