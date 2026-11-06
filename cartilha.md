@@ -124,19 +124,11 @@ Se o repositório do grupo já existe, esta seção serve como referência para 
 
 **Resultado esperado:** a página do novo repositório será aberta e exibirá o README inicial, caso essa opção tenha sido selecionada.
 
-> **ESPAÇO RESERVADO PARA A CAPTURA 01 — CRIAÇÃO DO REPOSITÓRIO**
+> **01 — CRIAÇÃO DO REPOSITÓRIO**
 >
 > ![Figura 1 — Criação do repositório do grupo no GitHub](imagens/01-criacao-repositorio.png)
 >
-> Arquivo: `imagens/01-criacao-repositorio.png`
->
-> O que mostrar: a página do repositório do grupo, com o nome e a estrutura inicial visíveis.
->
-> Legenda sugerida: *Figura 1 — Criação do repositório do grupo no GitHub.*
->
-> Depois de enviar a imagem para a pasta `imagens/`, substitua este bloco pelo recurso:
->
-> `![Figura 1 — Criação do repositório do grupo no GitHub.](imagens/01-criacao-repositorio.png)`
+> *Figura 1 — Criação do repositório do grupo no GitHub.*
 
 ### 3.4 Organização dos arquivos
 
