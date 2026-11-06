@@ -39,7 +39,7 @@ Dica: Utilize a aba Preview do editor web do GitHub antes de confirmar qualquer 
 
 Por que essa dica é importante? Permite visualizar se a formatação (links, tabelas e imagens) está correta antes de salvar, evitando múltiplos commits desnecessários para corrigir pequenos erros visuais.
 
-### Integrante 3 — [Paulo henrique]
+### Integrante 3 — [Paulo Henrique Silva de Souza]
 
 Dica: Crie branches paralelas (como melhoria-texto) para testar edições em vez de alterar diretamente a branch principal (main).
 
