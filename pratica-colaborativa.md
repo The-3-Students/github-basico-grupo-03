@@ -12,10 +12,9 @@
 
 | Nome | Usuário GitHub | Responsabilidade na atividade |
 |---|---|---|
-| [Jonathan Estevão] | [@jonathanestevao] | [PREENCHER] |
+| [Jonathan Estevão] | [@jonathanestevao] | [Fiz Os prompts Na IA, e tirei os prints] |
 | [Guilherme De Carvalho Souza] | [@guilhermedecarvalho353-png] | Ajudei  a separar o que tinha que ser feito, e criei o grupo de repositório.
-|
-| [NOME] | [@henriquesouza00] | [PREENCHER] |
+| [NOME] | [@henriquesouza00] | [Auxiliei na criação do grupo, e ajudei em alguns prints] |
 
 
 ## 2. Descrição da atividade
