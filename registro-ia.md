@@ -6,9 +6,9 @@
 - **Instituição:** Universidade Cruzeiro do Sul
 - **Disciplina:** Desenvolvimento Front-End Para Web
 - **Grupo:** [NÚMERO DO GRUPO]
-- **Integrantes:** [NOMES DOS INTEGRANTES]
+- **Integrantes:** [Jonathan Estevão Lopes da Silva — jonathanestevao], [Guilherme De Carvalho — USUÁRIO GITHUB], [Paulo Henrique Silva de Souza — USUÁRIO GITHUB]
 - **Ferramenta utilizada:** ChatGPT, da OpenAI
-- **Data(s) de utilização:** [PREENCHER COM AS DATAS REAIS]
+- **Data(s) de utilização:** [06/11/2026]
 
 ## 2. Finalidade do uso da inteligência artificial
 
