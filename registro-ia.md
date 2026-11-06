@@ -5,7 +5,7 @@
 - **Projeto:** GitHub para Iniciantes: Guia Prático de Versionamento e Colaboração
 - **Instituição:** Universidade Cruzeiro do Sul
 - **Disciplina:** Desenvolvimento Front-End Para Web
-- **Grupo:** [NÚMERO DO GRUPO]
+- **Grupo:** [03]
 - **Integrantes:** [Jonathan Estevão Lopes da Silva — jonathanestevao], [Guilherme De Carvalho — USUÁRIO GITHUB], [Paulo Henrique Silva de Souza — USUÁRIO GITHUB]
 - **Ferramenta utilizada:** ChatGPT, da OpenAI
 - **Data(s) de utilização:** [06/11/2026]
