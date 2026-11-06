@@ -536,7 +536,7 @@ Os exercícios a seguir foram elaborados para serem executados pelo navegador. O
 
 > **— ARQUIVO COMPARTILHADO E EDITADO**
 >
-> ![Figura 1 — Criação do repositório do grupo no GitHub](imagens/01-criacao-repositorio.png)
+> ![Figura 2 — Edição do arquivo compartilhado por um integrante](imagens/02-arquivo-compartilhado.png)
 >
 > *Figura 2 — Edição do arquivo compartilhado por um integrante.*
 
