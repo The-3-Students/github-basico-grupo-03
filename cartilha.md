@@ -2,7 +2,7 @@
 
 > **Material didático — Desenvolvimento Front-End Para Web**  
 > Universidade Cruzeiro do Sul  
-> **Grupo:** [03]  
+> **Grupo:** 03  
 > **Integrantes:** [NOME COMPLETO — USUÁRIO GITHUB], [NOME COMPLETO — USUÁRIO GITHUB]  
 > **Repositório:** [INSERIR URL DO REPOSITÓRIO]
 
