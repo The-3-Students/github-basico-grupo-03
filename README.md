@@ -4,7 +4,7 @@ Material acadêmico desenvolvido para a disciplina **Desenvolvimento Front-End P
 
 ## Apresentação
 
-Este repositório reúne uma cartilha digital e documentos complementares sobre os fundamentos do Git e do GitHub. O material foi elaborado para estudantes iniciantes e apresenta procedimentos que podem ser reproduzidos pela interface web do GitHub, sem exigir instalação do Git ou uso do terminal.
+Este repositório reúne uma cartilha digital e documentos complementares sobre os fundamentos do Git e do GitHub.
 
 ## Objetivo
 
