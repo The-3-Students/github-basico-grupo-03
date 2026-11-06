@@ -15,12 +15,12 @@ Explicar conceitos de controle de versão, organização de repositórios, Markd
 - **Instituição:** Universidade Cruzeiro do Sul
 - **Curso:** Análise e Desenvolvimento de Sistemas
 - **Disciplina:** Desenvolvimento Front-End Para Web
-- **Grupo:** [NÚMERO DO GRUPO]
+- **Grupo:** [03]
 - **Integrantes:**
-  - [NOME COMPLETO — USUÁRIO GITHUB]
-  - [NOME COMPLETO — USUÁRIO GITHUB]
-  - [ADICIONE OU REMOVA LINHAS CONFORME A COMPOSIÇÃO DO GRUPO]
-- **Docente:** [NOME DA PROFESSORA, SE EXIGIDO]
+  - [Jonathan Estevão Lopes da Silva — jonathanestevao]
+  - [Guilherme De Carvalho — USUÁRIO GITHUB]
+  - [Paulo Henrique Silva de Souza — USUÁRIO GITHUB]
+- **Docente:** [Eliane]
 
 ## Documentação
 
@@ -30,7 +30,7 @@ Explicar conceitos de controle de versão, organização de repositórios, Markd
 
 ## Evidências
 
-As capturas de tela da atividade prática serão armazenadas na pasta [`imagens/`](imagens/). Os arquivos devem ser adicionados após a realização dos procedimentos pelos integrantes.
+As capturas de tela da atividade prática estão armazenadas na pasta [`imagens/`](imagens/).
 
 ## Organização do repositório
 
@@ -54,7 +54,3 @@ As capturas de tela da atividade prática serão armazenadas na pasta [`imagens/
 - [Hello World](https://docs.github.com/pt/get-started/using-github/hello-world)
 - [Trabalhando com arquivos](https://docs.github.com/pt/repositories/working-with-files)
 - [Sobre solicitações de pull](https://docs.github.com/pt/pull-requests/get-started/about-pull-requests)
-
-## Observação sobre a prática
-
-Os procedimentos e resultados esperados estão descritos na cartilha. As respostas de reflexão, as contribuições individuais e as evidências devem representar somente o que o grupo efetivamente realizou. Campos entre colchetes precisam ser preenchidos antes da entrega.
