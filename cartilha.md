@@ -349,7 +349,7 @@ O histórico permite acompanhar a evolução do projeto. A autoria exibida depen
 
 > **— HISTÓRICO DE COMMITS**
 >
-> ![Figura 1 — Criação do repositório do grupo no GitHub](imagens/01-criacao-repositorio.png)
+> ![Figura 3 — Histórico de commits e identificação das contribuições.](imagens/03-historico-commits.png)
 >
 > *Figura 3 — Histórico de commits e identificação das contribuições.*
 
@@ -442,7 +442,7 @@ Se o GitHub exibir um aviso para comparar e abrir um Pull Request após o commit
 
 > **— PULL REQUEST ABERTO**
 >
-> ![Figura 1 — Criação do repositório do grupo no GitHub](imagens/01-criacao-repositorio.png)
+> ![Figura 4 — Pull Request aberto para revisão das alterações.](imagens/04-pull-request.png)
 >
 > *Figura 4 — Pull Request aberto para revisão das alterações.*
 
@@ -476,7 +476,7 @@ O GitHub pode oferecer diferentes métodos de mesclagem, como merge commit, squa
 
 > **— RESULTADO DO MERGE**
 >
-> ![Figura 1 — Criação do repositório do grupo no GitHub](imagens/01-criacao-repositorio.png)
+> ![Figura 5 — Alterações incorporadas à branch principal após o Merge.](imagens/05-resultado-merge.png)
 >
 > *Figura 5 — Alterações incorporadas à branch principal após o Merge.*
 
