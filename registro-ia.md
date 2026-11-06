@@ -70,9 +70,9 @@ Registrar as páginas realmente consultadas e os testes efetivamente realizados.
 
 Descrever o que foi alterado após a análise da resposta da IA.
 
-- [AJUSTE 1 — DESCREVER O TEXTO, PROCEDIMENTO OU LINK ALTERADO.]
-- [AJUSTE 2 — DESCREVER O QUE FOI CONFERIDO.]
-- [AJUSTE 3 — INFORMAR SE ALGUMA SUGESTÃO FOI DESCARTADA E POR QUÊ.]
+- [AJUSTE 1 — DESCREVER O TEXTO, ou LINK ALTERADO.]
+- [AJUSTE 2 — Vimos se não tinha erros ortográficos e gramaticais .]
+- [AJUSTE 3 — Nenhuma sugestão foi descartada.]
 
 Se nenhuma correção tiver sido necessária em determinado trecho, registrar que ele foi conferido e mantido, sem afirmar que houve alteração.
 
