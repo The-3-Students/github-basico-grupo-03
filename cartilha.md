@@ -33,7 +33,7 @@
 **Disciplina:** Desenvolvimento Front-End Para Web  
 **Grupo:** [03]  
 **Integrantes:**
-  - [Jonathan Estevão Lopes da Silva V — jonathanestevao]
+  - [Jonathan Estevão Lopes da Silva — jonathanestevao]
   - [Guilherme De Carvalho Sousa — guilhermedecarvalho353-png]
   - [Paulo Henrique Silva de Souza — USUÁRIO GITHUB]
 
