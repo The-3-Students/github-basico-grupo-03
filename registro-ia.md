@@ -55,7 +55,7 @@ Registrar as páginas realmente consultadas e os testes efetivamente realizados.
 Criação e edição de arquivos	[https://github.com/The-3-Students/github-basico-grupo-03/blob/main/cartilha.md#5-trabalhando-com-arquivos-e-vers%C3%B5es]	[FUNCIONANDO]
 Commits e histórico	[https://github.com/The-3-Students/github-basico-grupo-03/blob/main/cartilha.md#7-pr%C3%A1tica-orientada]	[FUNCIONANDO]
 Branches e Pull Requests	[https://github.com/The-3-Students/github-basico-grupo-03/blob/main/cartilha.md#7-pr%C3%A1tica-orientada]	[FUNCIONANDO]
-| Merge | [INSERIR LINK OU REGISTRO DO TESTE] | [PREENCHER] |
+| Merge | [https://github.com/The-3-Students/github-basico-grupo-03/blob/main/cartilha.md#7-pr%C3%A1tica-orientada] | [FUNCIONANDO] |
 
 ### Fontes oficiais recomendadas
 
@@ -70,9 +70,8 @@ Branches e Pull Requests	[https://github.com/The-3-Students/github-basico-grupo-
 
 Descrever o que foi alterado após a análise da resposta da IA.
 
-- [AJUSTE 1 — DESCREVER O TEXTO, ou LINK ALTERADO.]
-- [AJUSTE 2 — Vimos se não tinha erros ortográficos e gramaticais .]
-- [AJUSTE 3 — Nenhuma sugestão foi descartada.]
+- [AJUSTE 1 — Vimos se não tinha erros ortográficos e gramaticais .]
+- [AJUSTE 2 — Nenhuma sugestão foi descartada.]
 
 Se nenhuma correção tiver sido necessária em determinado trecho, registrar que ele foi conferido e mantido, sem afirmar que houve alteração.
 
