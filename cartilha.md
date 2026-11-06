@@ -126,6 +126,20 @@ Se o repositório do grupo já existe, esta seção serve como referência para 
 
 **Resultado esperado:** a página do novo repositório será aberta e exibirá o README inicial, caso essa opção tenha sido selecionada.
 
+> **ESPAÇO RESERVADO PARA A CAPTURA 01 — CRIAÇÃO DO REPOSITÓRIO**
+>
+> **[INSERIR A PRINT REAL AQUI]**
+>
+> Arquivo: `imagens/01-criacao-repositorio.png`
+>
+> O que mostrar: a página do repositório do grupo, com o nome e a estrutura inicial visíveis.
+>
+> Legenda sugerida: *Figura 1 — Criação do repositório do grupo no GitHub.*
+>
+> Depois de enviar a imagem para a pasta `imagens/`, substitua este bloco pelo recurso:
+>
+> `![Figura 1 — Criação do repositório do grupo no GitHub.](imagens/01-criacao-repositorio.png)`
+
 ### 3.4 Organização dos arquivos
 
 Uma estrutura simples ajuda outras pessoas a entenderem o projeto. Para esta atividade, recomenda-se:
@@ -343,6 +357,20 @@ Prefira mensagens curtas, específicas e coerentes com o conteúdo do commit. N�
 
 O histórico permite acompanhar a evolução do projeto. A autoria exibida depende dos dados associados ao commit e da configuração da conta. Não confunda o autor do commit com a pessoa que apenas revisou um Pull Request.
 
+> **ESPAÇO RESERVADO PARA A CAPTURA 03 — HISTÓRICO DE COMMITS**
+>
+> **[INSERIR A PRINT REAL AQUI]**
+>
+> Arquivo: `imagens/03-historico-commits.png`
+>
+> O que mostrar: a lista de commits com mensagens, datas e autores das contribuições dos integrantes.
+>
+> Legenda sugerida: *Figura 3 — Histórico de commits e identificação das contribuições.*
+>
+> Depois de enviar a imagem para a pasta `imagens/`, substitua este bloco pelo recurso:
+>
+> `![Figura 3 — Histórico de commits e identificação das contribuições.](imagens/03-historico-commits.png)`
+
 ## 6. Colaboração entre integrantes
 
 ### 6.1 Convidar colaboradores
@@ -430,6 +458,20 @@ Um Pull Request não realiza automaticamente o Merge. Primeiro, a equipe pode ex
 
 Se o GitHub exibir um aviso para comparar e abrir um Pull Request após o commit, essa opção também pode ser utilizada.
 
+> **ESPAÇO RESERVADO PARA A CAPTURA 04 — PULL REQUEST ABERTO**
+>
+> **[INSERIR A PRINT REAL AQUI]**
+>
+> Arquivo: `imagens/04-pull-request.png`
+>
+> O que mostrar: a página do Pull Request aberto, com título, branches base e de comparação e estado da solicitação.
+>
+> Legenda sugerida: *Figura 4 — Pull Request aberto para revisão das alterações.*
+>
+> Depois de enviar a imagem para a pasta `imagens/`, substitua este bloco pelo recurso:
+>
+> `![Figura 4 — Pull Request aberto para revisão das alterações.](imagens/04-pull-request.png)`
+
 ### 6.9 Revisar alterações e solicitar correções
 
 1. Abra o Pull Request.
@@ -457,6 +499,20 @@ Uma revisão deve ser respeitosa, específica e relacionada ao trabalho. Exemplo
 7. Retorne à branch principal e confira se as alterações foram incorporadas.
 
 O GitHub pode oferecer diferentes métodos de mesclagem, como merge commit, squash e rebase. Para um exercício introdutório, utilize a opção padrão disponível no repositório e registre qual foi utilizada.
+
+> **ESPAÇO RESERVADO PARA A CAPTURA 05 — RESULTADO DO MERGE**
+>
+> **[INSERIR A PRINT REAL AQUI]**
+>
+> Arquivo: `imagens/05-resultado-merge.png`
+>
+> O que mostrar: o Pull Request marcado como merged e, se possível, o arquivo atualizado na branch principal.
+>
+> Legenda sugerida: *Figura 5 — Alterações incorporadas à branch principal após o Merge.*
+>
+> Depois de enviar a imagem para a pasta `imagens/`, substitua este bloco pelo recurso:
+>
+> `![Figura 5 — Alterações incorporadas à branch principal após o Merge.](imagens/05-resultado-merge.png)`
 
 ### 6.12 Como evitar conflitos e perda de alterações
 
@@ -511,6 +567,20 @@ Os exercícios a seguir foram elaborados para serem executados pelo navegador. O
 **Como verificar:** abra o arquivo e confira o conteúdo e o commit correspondente no histórico.
 
 **Registro do grupo:** [PREENCHER APÓS A EXECUÇÃO.]
+
+> **ESPAÇO RESERVADO PARA A CAPTURA 02 — ARQUIVO COMPARTILHADO E EDITADO**
+>
+> **[INSERIR A PRINT REAL AQUI]**
+>
+> Arquivo: `imagens/02-arquivo-compartilhado.png`
+>
+> O que mostrar: o arquivo coletivo aberto no GitHub, mostrando a dica acrescentada por um integrante e, quando possível, o nome da conta usada na contribuição.
+>
+> Legenda sugerida: *Figura 2 — Edição do arquivo compartilhado por um integrante.*
+>
+> Depois de enviar a imagem para a pasta `imagens/`, substitua este bloco pelo recurso:
+>
+> `![Figura 2 — Edição do arquivo compartilhado por um integrante.](imagens/02-arquivo-compartilhado.png)`
 
 ### Exercício 3 — Criar uma branch e registrar um commit
 
