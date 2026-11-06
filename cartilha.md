@@ -703,6 +703,3 @@ As referências abaixo são páginas da documentação oficial do GitHub. Os pro
 13. GITHUB. **Sintaxe básica de escrita e formatação**. Disponível em: <https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>. Acesso em: 6 nov. 2026.
 14. GITHUB. **Adicionar um arquivo a um repositório**. Disponível em: <https://docs.github.com/pt/repositories/working-with-files/managing-files/adding-a-file-to-a-repository>. Acesso em: 6 nov. 2026.
 
----
-
-**Última revisão editorial:** 6 de novembro de 2026.  
